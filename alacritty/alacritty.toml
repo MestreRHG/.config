@@ -1,0 +1,12 @@
+import = [
+  "~/.config/alacritty/themes/tokyo-night.toml"
+]
+
+[shell]
+program = "/bin/zsh"
+
+[window]
+padding = { x = 5, y = 5 }
+
+[font]
+normal = { family = "HackNerdFont", style = "Regular" }
